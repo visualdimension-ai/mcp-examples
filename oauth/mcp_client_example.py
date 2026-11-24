@@ -6,7 +6,7 @@ from fastmcp.client.auth import OAuth
 
 
 MCP_URL = "https://mcp.visualdimension.ai/mcp"
-CLIENT_ID = "fkv12vd0i24m4ra2a5nu54k2a"
+CLIENT_ID = "7ish6536fl8hj8ngjda1aps8hj"
 
 
 async def main():
